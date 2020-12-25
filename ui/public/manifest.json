@@ -1,0 +1,6 @@
+{
+  "short_name": "vu-serverdescription",
+  "name": "Create React App Sample",
+  "start_url": ".",
+  "display": "standalone"
+}

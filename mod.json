@@ -1,0 +1,10 @@
+{
+    "Name": "vu-serverdescription",
+    "Description": "Renders a readme in the spawnscreen",
+    "Version": "1.0.0",
+    "HasVeniceEXT": true,
+    "HasWebUI": true,
+    "Dependencies": {
+        "veniceext": "^1.0.0"
+    }
+}

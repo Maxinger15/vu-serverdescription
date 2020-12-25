@@ -1,0 +1,43 @@
+@font-face {
+  font-family: battlefield3;
+  src: url(./font/bebas.ttf);
+}
+@font-face {
+  font-family: bf3Better;
+  src: url(./font/bffont.ttf);
+}
+*{
+  font-family: bf3Better;
+}
+.overallBackground{
+  background-color: transparent;
+}
+
+
+.ant-steps-item-finish .ant-steps-item-icon {
+  background: rgba(0,128,0,0.5);
+  border-color: rgba(0,128,0,0.5);
+}
+
+.discription{
+  background-color:rgba(5, 57, 97,0.935);
+  color:white !important;
+  border-top-left-radius: 10px;
+  border-bottom-left-radius: 10px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: white;
+}
+table, th, td {
+  border: 1px solid white;
+}
+td,th{
+  padding-left: 5px;
+  padding-right: 5px;
+  text-align: center;
+}
+table{
+  margin-left: 25px;
+  margin-bottom: 5px;
+}
